@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project1\project1\source.cpp(705): warning C4244: '正在初始化': 將 'float' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\project1\project1\source.cpp(711): warning C4244: '正在初始化': 將 'float' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\project1\project1\source.cpp(717): warning C4244: '正在初始化': 將 'float' 轉換為 'char'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\project1\project1\source.cpp(723): warning C4244: '正在初始化': 將 'float' 轉換為 'char'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\user\source\repos\Project1\x64\Debug\Project1.exe
